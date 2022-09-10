@@ -26,6 +26,7 @@
 
 The Sismo Hub is the repository for integrations on Sismo:
 
+
 - Create your Badge (define the group of eligible accounts, define Badge metadata and picture)
 - Create your integration flows directly in Sismo app (define the minting process in sismo app)
 
